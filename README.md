@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @husnain52
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning API Integration in React.
-- 💞️ I’m looking to collaborate on React App Designing.
+- 🌱 I’m currently working with MERN stack development.
+- 💞️ I’m looking to collaborate on React JS Web Applications.
 - 📫 How to reach me: https://www.linkedin.com/in/husnain-akhtar/
 
 <!---
