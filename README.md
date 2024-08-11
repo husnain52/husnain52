@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Husnain Akhtar.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently working with MERN stack development.
+- 🌱 I’m currently working with MERN stack technologies.
 - 💞️ I’m looking to collaborate on React.js Web Applications.
 - 📫 LinkedIn: https://www.linkedin.com/in/husnain-akhtar/
 
