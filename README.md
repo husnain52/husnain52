@@ -1,8 +1,8 @@
-# Hey, I'm Husnain 👋
+# Hey, I'm Husnain
 
-**Software Engineer • Frontend / Full-Stack Developer**
+**Software Engineer | Frontend / Full-Stack Developer**
 
-I build clean, scalable web apps with **React, Next.js & TypeScript** — and lately, I've been exploring **AI-powered products and AI-assisted development**.
+I build clean, scalable web apps with **React, Next.js & TypeScript** and lately, I've been exploring **AI-powered products and AI-assisted development**.
 
 ### Tech I work with
 
